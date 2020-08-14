@@ -1,0 +1,85 @@
+img {
+    height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid white;
+    animation: heben 3s ease;
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    height: 50px;
+    width: 200px;
+    background-color: #65d136;
+    animation: knoepfchen 3s ease;
+}
+
+button:hover {
+  height: 47px;
+  width: 197px;
+  background-color: #51a350;
+}
+
+h1 {
+  animation: fallen 1.5s ease;  
+  text-align: center;
+  font-family: Comic Sans MS;
+}
+
+p {
+    text-align: center;
+  animation: schieben 1.5s ease;
+}
+
+body {
+    background-color: #4c749c
+}
+
+@keyframes fallen {
+  0% {
+    opacity: 0;
+    transform: translateY(-80px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+@keyframes schieben {
+  0% {
+    opacity: 0;
+    transform: translateX(-500px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0px);
+  }
+}
+
+@keyframes heben {
+  0% {
+    opacity: 0;
+    transform: translateY(200px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+@keyframes knoepfchen {
+  0% {
+    opacity: 0;
+    transform: translate(300px, 200px);
+
+  }
+  100% {
+    opacity: 1;
+    transform: translate(0px, 0px);
+  }
+}
