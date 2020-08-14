@@ -73,7 +73,6 @@ var catlinks = [
   "https://p1.pxfuel.com/preview/975/559/671/cat-small-red-cat-baby-baby-cat-kitten.jpg",
   "https://images.unsplash.com/photo-1570131669750-8003614b97f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
   "https://ae01.alicdn.com/kf/HTB1EMsmB49YBuNjy0Ffq6xIsVXaO/Young-Cat-Takes-Pictures-of-Cute-Cat-Yellow-Circle-Pet-Sunflower-Cat-Headgear-Pet-Clothes-Cat.jpg",
-  "https://lh3.googleusercontent.com/proxy/ZWcVkSz-rjvzHFIoSsoPvM6oNorekgcgLqsEzH3rNYZmzDAkNWd63KWB9TdehLm8Xgf0fPz6Q2hdSX2u6rd-ilYoI5SxRtay2ZCAf0HaiKQEP20",
   "https://i.ytimg.com/vi/DgdMV3IczYY/hqdefault.jpg",
   "https://www.debilder.net/wp-content/uploads/2018/12/Cute-Cat-Photos-With-Quotes-Bilder.jpg",
   "https://img.freepik.com/free-photo/cute-cat-with-sweater-hat_23-2148348114.jpg?size=626&ext=jpg",
